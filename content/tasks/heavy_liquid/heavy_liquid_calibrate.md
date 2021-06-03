@@ -1,18 +1,15 @@
-# Protocol Template
-This template can be used to create a new lab procedure. Four categories need to be filled out. 
+# Heavy Liquid Calibration
 
 ## ID
 
-Descriptive variable that will be used a a unique ID for the procedure.
-Example: `leach_acid_HF_v01`
+`heavy_liquid_calibrate`
 
 ## Requires
 
-List other procedures used here using their `IDs`.
 
 ## Description
 
-Brief description of the overall procedure. This should include important details so that the procedure could be replicated.
+Process to reduce the density of LST to the appropriate level.
 
 ## Procedure
 

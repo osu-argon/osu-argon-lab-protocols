@@ -14,12 +14,11 @@ Welcome to the OSU Argon Geochronology Lab Protocols!
    introduction/**
 
 .. toctree::
-:caption: Mineral Separation Lab:
-:glob:
-:titlesonly:
+   :caption: Mineral Separation Lab:
+   :glob:
+   :titlesonly:
 
    mineral/**
-
 
 .. toctree::
    :caption: Recipes:

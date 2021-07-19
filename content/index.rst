@@ -13,12 +13,9 @@ Welcome to the OSU Argon Geochronology Lab Protocols!
 
    introduction/**
 
-.. toctree::
-   :caption: Mineral Separation:
-   :glob:
-   :maxdepth: 1
-   
-   minsep/
+------------------
+Mineral Separation
+------------------
 
    .. toctree::
    :caption: Methods:
@@ -33,6 +30,10 @@ Welcome to the OSU Argon Geochronology Lab Protocols!
    :maxdepth: 1
 
    minsep/tasks/**
+
+------------------
+Mass Spectroscopy
+------------------
 
 .. toctree::
    :caption: Mass Spectroscopy:

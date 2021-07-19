@@ -13,7 +13,6 @@
 
 ## Description
 
-Brief description of the overall procedure. This should include important details so that the procedure could be replicated.
 
 ## Procedure
 

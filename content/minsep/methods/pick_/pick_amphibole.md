@@ -1,4 +1,4 @@
-# Protocol Template
+# Picking Amphibole (incomplete)
 This template can be used to create a new lab procedure. Four categories need to be filled out. 
 
 ## ID

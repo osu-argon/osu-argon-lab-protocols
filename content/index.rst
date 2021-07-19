@@ -18,6 +18,13 @@ Mineral Separation
 ------------------
 
 .. toctree::
+   :caption: Recipes:
+   :glob:
+   :maxdepth: 1
+
+   minsep/recipes/**
+
+.. toctree::
    :caption: Methods:
    :glob:
    :maxdepth: 1

@@ -1,18 +1,18 @@
-# Protocol Template
+Pack samples for Irradiation
+============================
 
-
-## ID
+**ID**
 
 `irradiate_pack`
 
-## Requires
+**Requires**
 
 
-## Description
+**Description**
 
 Procedure to pack picked samples for irradiation.
 
-## Procedure
+**Procedure**
 
 1. Weigh samples to the desired amount to irradiate. Generally enough for two analyses.
 2. Put pre-made aluminum capsule in the pack plate.

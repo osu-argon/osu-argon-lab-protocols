@@ -1,16 +1,16 @@
-# Workspace Preperation
+**Workspace Preperation**
 
-## ID 
+**ID**
 
 `workspace_prep`
 
-## Requires
+**Requires**
 
-## Description
+**Description**
 
 Prior to working with a sample the workspace must be cleaned.
 
-## Procedure
+**Procedure**
 
 1. Wipe down all surfaces with water and ethyl alcohol.
 1. Inspect and clean equipment.

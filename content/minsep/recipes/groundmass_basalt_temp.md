@@ -22,9 +22,7 @@ Standard protocol for basalt groundmass separation. The focus of this procedure 
 
 ## Procedure
 
-.. raw:: md
-   :file: minsep/methods/prepare_/prepare_TSB_wagner.md
-
+.. include:: ../methods/prepare_/prepare_TSB_wagner.md
 
 	- prepare_TSB_wagner
 	- crush_jaw_large

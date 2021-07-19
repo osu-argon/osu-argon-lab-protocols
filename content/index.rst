@@ -18,20 +18,18 @@ Mineral Separation
 ------------------
 
 .. toctree::
-   :caption: Recipes:
+   :caption: Min Sep:
    :glob:
    :maxdepth: 1
 
-   minsep/recipes/**
+   minsep/**
 
-
-
-Methods
-'''''''
+Mass Spectroscopy
+------------------
 
 .. toctree::
-   :caption: Archive:
+   :caption: Mass Spec:
    :glob:
    :maxdepth: 1
 
-   minsep/methods/archive/**
+   massspec/**

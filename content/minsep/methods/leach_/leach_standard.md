@@ -1,22 +1,24 @@
-# Standard Acid Leaching Procedure
+Standard Acid Leaching Procedure
+================================
 
-## ID
+**ID**
 
 `leach_standard`
 
-## Requires
+**Requires**
 
 
-## Description
+**Description**
 
 This acid leaching procedure removes carbonate and clay products that may interfere or contaminate Ar/Ar analyses. The procedure involves placing the sample in a sequence of acids (1N HCl, 6N HCl, 1N HNO3, 3N HNO3) and placing them in a mild ultra-sonic bath.
 
-## Geologic Material
+**Geologic Material**
 
 `groundmass`
 `plagioclase`
 
-## Procedure
+**Procedure**
+
 1. workspace_prep
 2. acid_leach_prep
 3. Gather supplies and PPE.

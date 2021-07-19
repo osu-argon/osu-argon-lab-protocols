@@ -1,15 +1,15 @@
-# Picking Groundmass
-
-## Picking
+Picking Groundmass
+==================
 
 How to pick samples for Ar/Ar Analysis
+
 **Safety**
 
     - Brightness of scopes.
 
 **Workspace Preparation**
 
-## - Clean Table and scope
+- Clean Table and scope
 
 **Picking Tools**
 

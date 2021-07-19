@@ -1,19 +1,5 @@
-Large Jaw Crusher Method
+Large Jaw Crusher Method [#]_
 ========================
-
-**ID**
-
-	`
-	crush_jaw_large
-	`
-
-**Requires**
-
-`workspace_prep`
-`jaw_large_clean`
-`jaw_large_operate`
-`jaw_large_crush`
-
 
 **Description**
 
@@ -22,7 +8,9 @@ This method of crushing a rock is meant for large amounts of material. Ideally t
 **Procedure**
 
 
-.. include:: /../content/minsep/tasks/workspace_/workspace_prep.md
+.. include:: /../content/minsep/tasks/workspace/workspace_prep.rst
+.. include:: /../content/minsep/tasks/jaw/jaw_large_clean.md
+
 
 1. workspace_prep
 1. jaw_large_clean
@@ -30,3 +18,6 @@ This method of crushing a rock is meant for large amounts of material. Ideally t
 1. sieve_methods
 1. sieve_clean
 1. jaw_large_clean
+
+
+.. [#]  `crush_jaw_large source file <https://github.com/osu-argon/osu-argon-lab-protocols/blob/main/content/minsep/methods/crush/crush_jaw_large.rst#large-jaw-crusher-method>`_

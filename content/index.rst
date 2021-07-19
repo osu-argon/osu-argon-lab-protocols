@@ -28,8 +28,9 @@ Recipes
    minsep/recipes/**
 
 
+
 Methods
-^^^^^^^
+'''''''''''''
 
 .. toctree::
    :caption: Archive:

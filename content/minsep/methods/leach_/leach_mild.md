@@ -1,14 +1,15 @@
-# Protocol Template
-This template can be used to create a new lab procedure. Four categories need to be filled out. 
+# Mild Leach
 
 ## ID
 
-Descriptive variable that will be used a a unique ID for the procedure.
-Example: `leach_acid_HF_v01`
+`leach_mild`
 
 ## Requires
 
-List other procedures used here using their `IDs`.
+`workspace_prep`
+`acid_leaching_sheet`
+`acid_prep_mild_leach`
+`label_leach_bottle`
 
 ## Description
 

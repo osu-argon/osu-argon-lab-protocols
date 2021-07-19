@@ -1,29 +1,23 @@
-# Protocol Template
-This template can be used to create a new lab procedure. Four categories need to be filled out. 
+# Crush with Mortar and Pestle
 
 ## ID
 
-Descriptive variable that will be used a a unique ID for the procedure.
-Example: `leach_acid_HF_v01`
+`crush_mortar_pestle`
 
 ## Requires
 
-List other procedures used here using their `IDs`.
+`workspace_prep`
 
 ## Description
 
-Brief description of the overall procedure. This should include important details so that the procedure could be replicated.
+A mortar and pestle are used to break down samples that are either easy to crush or, there is a small amount of material and special care is needed in the crushing process not to lose material.
 
 ## Procedure
 
-A step by step description of how the procedure is performed in the OSU Argon Lab. Include variables of procedure that are used here.
+- `workspace_prep`
+- Place material into mortar.
+- Begin light tapping the sample with the pestle.
+- Continue until there is a range of small rock pieces and fine material.
+- Sieve the material and take the larger fraction and place back into the mortar and continue to crush.
+- Repeat until material is in the desired size fraction.
 
-
-## Summary
-
-A summary of the procedure
-
-
-## Status
-
-What is the status of this document.

@@ -1,4 +1,4 @@
-***Workspace Preperation*** [#]_
+**Workspace Preperation** [#]_
 
 
 #. Wipe down all surfaces with water and ethyl alcohol.

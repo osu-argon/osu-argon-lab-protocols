@@ -35,5 +35,3 @@ Methods
    :maxdepth: 1
 
    minsep/methods/archive/**
-   minsep/methods/crush/**
-   minsep/methods/leach/**

@@ -1,5 +1,4 @@
-# Protocol Template
-This template can be used to create a new lab procedure. Four categories need to be filled out. 
+# Heavy Liquid Setup
 
 ## ID
 
@@ -19,11 +18,3 @@ Brief description of the overall procedure. This should include important detail
 A step by step description of how the procedure is performed in the OSU Argon Lab. Include variables of procedure that are used here.
 
 
-## Summary
-
-A summary of the procedure
-
-
-## Status
-
-What is the status of this document.

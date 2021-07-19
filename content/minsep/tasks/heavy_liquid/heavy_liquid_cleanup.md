@@ -1,29 +1,17 @@
-# Protocol Template
-This template can be used to create a new lab procedure. Four categories need to be filled out. 
+# Heavy Liquid Cleanup (incomplete)
 
 ## ID
 
-Descriptive variable that will be used a a unique ID for the procedure.
-Example: `leach_acid_HF_v01`
+`heavy_liquid_cleanup`
 
 ## Requires
 
-List other procedures used here using their `IDs`.
+
 
 ## Description
 
-Brief description of the overall procedure. This should include important details so that the procedure could be replicated.
+LST is a toxic chemical and will damage your person as well as equipment. It is also expensive, so properly cleaning and reclaiming LST is important.
 
 ## Procedure
 
-A step by step description of how the procedure is performed in the OSU Argon Lab. Include variables of procedure that are used here.
 
-
-## Summary
-
-A summary of the procedure
-
-
-## Status
-
-What is the status of this document.

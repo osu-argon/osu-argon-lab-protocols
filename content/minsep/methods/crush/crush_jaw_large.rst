@@ -15,8 +15,7 @@ Large Jaw Crusher Method
 `jaw_large_crush`
 
 
-Description
-
+**Description**
 
 This method of crushing a rock is meant for large amounts of material. Ideally the sample would only need to go through the large crusher once and enough fine material should be generated for mineral separation.
 

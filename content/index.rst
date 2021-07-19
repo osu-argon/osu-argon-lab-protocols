@@ -37,49 +37,49 @@ Methods
    :glob:
    :maxdepth: 1
 
-   minsep/methods/archive_/**
+   minsep/methods/archive/**
 
 .. toctree::
    :caption: Crush:
    :glob:
    :maxdepth: 1
 
-   minsep/methods/crush_/**
+   minsep/methods/crush/**
 
 .. toctree::
    :caption: Leach:
    :glob:
    :maxdepth: 1
 
-   minsep/methods/leach_/**
+   minsep/methods/leach/**
 
 .. toctree::
    :caption: Pick:
    :glob:
    :maxdepth: 1
 
-   minsep/methods/pick_/**
+   minsep/methods/pick/**
 
 .. toctree::
    :caption: Prepare:
    :glob:
    :maxdepth: 1
 
-   minsep/methods/prepare_/**
+   minsep/methods/prepare/**
 
 .. toctree::
    :caption: Separate:
    :glob:
    :maxdepth: 1
 
-   minsep/methods/separate_/**
+   minsep/methods/separate/**
 
 .. toctree::
    :caption: Wash:
    :glob:
    :maxdepth: 1
 
-   minsep/methods/wash_/**
+   minsep/methods/wash/**
 
 
 Tasks

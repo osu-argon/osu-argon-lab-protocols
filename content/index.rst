@@ -21,6 +21,13 @@ Welcome to the OSU Argon Geochronology Lab Protocols!
    minsep/**
 
 .. toctree::
+   :caption: Mass Spectroscopy:
+   :glob:
+   :maxdepth: 1
+   
+   minsep/**
+
+.. toctree::
    :caption: Methods:
    :glob:
    :maxdepth: 1

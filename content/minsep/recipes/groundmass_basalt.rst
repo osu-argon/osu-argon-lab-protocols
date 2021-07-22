@@ -9,7 +9,7 @@ Standard protocol for basalt groundmass separation. The focus of this procedure 
 .. include:: ../methods/crush/crush_jaw_large.rst
 .. include:: ../methods/separate/separate_groundmass_basalt.md
 .. include:: ../methods/leach/leach_standard.rst
-.. include:: ../methods/pick/pick_groundmass.md
-.. include:: ../tasks/irradiate/irradiate_pack.md
-.. include:: ../methods/archive/archive_in_burt.md
+.. include:: ../methods/pick/pick_groundmass.rst
+.. include:: ../tasks/irradiate/irradiate_pack.rst
+.. include:: ../methods/archive/archive_in_burt.rst
 

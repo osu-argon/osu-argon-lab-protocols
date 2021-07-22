@@ -1,14 +1,5 @@
 Pack samples for Irradiation
-============================
-
-**ID**
-
-`irradiate_pack`
-
-**Requires**
-
-
-**Description**
+****************************
 
 Procedure to pack picked samples for irradiation.
 

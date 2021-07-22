@@ -21,6 +21,7 @@ Recipes
 '''''''
 
 .. toctree::
+   :numbered:
    :caption: Recipes:
    :glob:
    :maxdepth: 1

@@ -1,5 +1,5 @@
-Clean Large Jaw Crusher
-'''''''''''''''''''''''
+**Clean Large Jaw Crusher**
+
 Procedure to clean the large jaw crusher in Wilkenson. 
 
 **Procedure**

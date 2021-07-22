@@ -1,4 +1,5 @@
-## Recover from resetting USB on ARGUS-VI
+Recover from resetting USB on ARGUS-VI
+======================================
 
-- Open rear panel behind collecters. 
-- Take note
+#. Open rear panel behind collecters
+#. Take note

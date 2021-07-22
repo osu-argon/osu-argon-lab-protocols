@@ -1,5 +1,5 @@
 Large Jaw Crusher Method [#]_
-========================
+'''''''''''''''''''''''''''''
 
 **Description**
 
@@ -9,7 +9,8 @@ This method of crushing a rock is meant for large amounts of material. Ideally t
 
 
 .. include:: /../content/minsep/tasks/workspace/workspace_prep.rst
-.. include:: /../content/minsep/tasks/jaw/jaw_large_clean.md
+.. include:: /../content/minsep/tasks/jaw/jaw_large_clean.rst
+.. include:: /../content/minsep/tasks/jaw/jaw_large_operate.rst
 
 
 1. workspace_prep

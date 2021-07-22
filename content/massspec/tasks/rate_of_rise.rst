@@ -1,17 +1,11 @@
-# Rate of Rise
+Rate of Rise
+============
 
-## ID
-
-`rate_of_rise`
-
-## Requires
-
-
-## Description
+**Description**
 
 This procedure is used to establish a general background level gas in the mass spectrometer. The procedure starts by isolating the mass spectrometer and closing the valve to the ion pump, allowing to gas to start building up in the mass spectrometer. The signal should slowly start to rise as gas starts building up from the sidewalls of the mass spectrometer. Before opening the extraction line up to the mass spectrometer, close the valve to the ion pump connected to the extraction line.
 
-## Procedure
+**Procedure**
 
 1. Set the mass spec into the configuration shown in Figure xx.
 2. Turn off `Monitor Mode` in ArArExperiments.

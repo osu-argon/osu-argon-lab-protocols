@@ -1,7 +1,7 @@
-Picking Feldspar
-****************
+Picking Groundmass
+******************
 
-How to pick feldspar separates for Ar/Ar Analysis.
+How to pick samples for Ar/Ar Analysis
 
 **Safety**
 
@@ -69,5 +69,4 @@ Brush good grains into a vial.
 .. image:: https://paper-attachments.dropbox.com/s_0971E35B96C0A3333F4EEB16AF0FCF2CA45AE5B5B56AB83FEC688253E286A3B7_1562172112031_picking_setup_step_05.png
   :width: 400
   :alt: Brush good grains into a vial.
-
 

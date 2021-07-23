@@ -8,13 +8,12 @@ This acid leaching procedure removes carbonate and clay products that may interf
 `groundmass`
 `plagioclase`
 
-**Procedure**
-
-
+**Steps**
 
 .. include:: /../content/minsep/tasks/workspace/workspace_prep.rst
 .. include:: /../content/minsep/tasks/acid/acid_prep.rst
 .. include:: /../content/minsep/tasks/acid/acid_leach_sheet.rst
+
 
 #. Gather supplies and PPE.
 
@@ -24,18 +23,18 @@ This acid leaching procedure removes carbonate and clay products that may interf
   - **Body:** Lab coat, long pants and closed-toed shoes
 
 HDPE Bottles
-  - Use large HDPE bottles if you have lots of sample. They sit better in the bath, but beware, you will use more acid.
-  - Use small HDPE bottles for small samples. They tend to tip over in the bath.
+  * Use large HDPE bottles if you have lots of sample. They sit better in the bath, but beware, you will use more acid.
+  * Use small HDPE bottles for small samples. They tend to tip over in the bath.
 
 Acid (best to prepare acid ahead of time)
-  - 1L of 1N HCl
-  - 1L of 6N HCl
-  - 1L of 1N HNO3
-  - 1L of 3N HNO3
+  * 1L of 1N HCl
+  * 1L of 6N HCl
+  * 1L of 1N HNO3
+  * 1L of 3N HNO3
 
-- 3 - 1,000 mL glass beakers (for acid waste)
-- 2 - 300 mL glass beakers (for pouring acid into and out of bottles)
-- 2 - small plastic trays
+* 3 - 1,000 mL glass beakers (for acid waste)
+* 2 - 300 mL glass beakers (for pouring acid into and out of bottles)
+* 2 - small plastic trays
 
 - Set ultrasound to 50°C.
 

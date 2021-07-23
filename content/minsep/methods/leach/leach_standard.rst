@@ -14,6 +14,7 @@ This acid leaching procedure removes carbonate and clay products that may interf
 
 .. include:: /../content/minsep/tasks/workspace/workspace_prep.rst
 .. include:: /../content/minsep/tasks/acid/acid_prep.rst
+.. include:: /../content/minsep/tasks/acid/acid_leach_sheet.rst
 
 #. Gather supplies and PPE.
 

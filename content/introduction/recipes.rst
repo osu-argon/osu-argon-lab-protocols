@@ -1,6 +1,8 @@
-# Constructing Mineral Separation Recipes
+Constructing Mineral Separation Recipes
+***************************************
 
-## Structure of Recipes, Methods and Procedures
+Structure of Recipes, Methods and Procedures
+''''''''''''''''''''''''''''''''''''''''''''
 
 ***Recipes*** are a sequence of methods that are used to process a sample for analysis.
 ***Methods*** are a sequence of procedures that are used to perform a specific task during sample preparation.
@@ -13,7 +15,8 @@
 
 Below are lists of methods in order to build a recipe for mineral separation.
 
-## [Sample Preparation](https://paper.dropbox.com/doc/Sample-Preparation--Ao9quEt4fJzKgnOa8Y29IJe0AQ-MDUr6WjOzRLZEGKCGwlTj) Fields
+Sample Preparation Fields
+'''''''''''''''''''''''''
 
 These methods will describe the steps necessary before mineral separation begins. Such as sample description, taking pictures of thin sections and determining a recipe for the sample.
 
@@ -34,7 +37,8 @@ These methods will describe the steps necessary before mineral separation begins
     - A portion of the sample needs to be prepared and sent for XRF analysis.
 
 
-## [Crushing Methods](https://paper.dropbox.com/doc/Crushing-Methods--Ao8nYpdbHGwTH9ZOrlpYAmwsAQ-sqs4XHKNA7d7C6ua9e9Dr) Fields
+Crushing Methods Fields
+'''''''''''''''''''''''
 
 Methods that will provide guidance on how to go about crushing samples using specific equipment in the lab.
 
@@ -53,7 +57,8 @@ Methods that will provide guidance on how to go about crushing samples using spe
     - To use when the sample amount is small or finer control over the crushing of the sample is needed.
 
 
-## Sieve Method Field
+Sieve Method Field
+''''''''''''''''''
 
 **Prefix for sieve fields**
 
@@ -69,7 +74,8 @@ Methods that will provide guidance on how to go about crushing samples using spe
 - sieve_small_350-800
 
 
-## Separation Methods Fields
+Separation Methods Fields
+'''''''''''''''''''''''''
 
 **Prefix for magnetic separation fields**
 
@@ -82,7 +88,8 @@ Methods that will provide guidance on how to go about crushing samples using spe
 - magnetic_sep_mica
 
 
-## Heavy Liquid Fields 
+Heavy Liquid Fields
+'''''''''''''''''''
 
 **Prefix for Heavy Liquid Fields**
 
@@ -90,56 +97,79 @@ Methods that will provide guidance on how to go about crushing samples using spe
 
 
 - heavy_liq_2582_float
-    - Target: Glass, Sanidine
+
+  - Target: Glass, Sanidine
+
 - heavy_liq_2582_sink
-    - Target: Biotite, Amphiboles, Plagioclase
+
+  - Target: Biotite, Amphiboles, Plagioclase
+
 - heavy_liq_2560_float
-    - Target: Glass
+
+  - Target: Glass
+
 - heavy_liq_2560_sink
-    - Target: Sanidine
+
+  * Target: Sanidine
+
 - heavy_liq_2800_sink
 
 
-## [Acid Leaching](https://paper.dropbox.com/doc/Acid-Leaching-Method--Ao8L47vzdO93qRNM5WZdrfKmAQ-goRn1YumqtEXuCObodBlr) Method Fields
+Acid Leaching Method Fields
+'''''''''''''''''''''''''''
 
 **Prefix for Acid Leaching Fields**
 
     acid_leach_
 - acid_leach_concentrate
-    - Samples are leached using 6N HCl, 1N HCl, 3N HNO3 and 1N HNO3 for 60 minutes each.
+
+  - Samples are leached using 6N HCl, 1N HCl, 3N HNO3 and 1N HNO3 for 60 minutes each.
+
 - acid_leach_dilute
-    - Samples are leached using 1N HCl and 1N HNO3 for 60 minutes each.
+
+  - Samples are leached using 1N HCl and 1N HNO3 for 60 minutes each.
 
 
 
-## [HF Leach](https://paper.dropbox.com/doc/HF-Leaching-Methods--Ao~qr3rhZDxt70HlzIZd6phzAQ-jxDM56JPcdqTQwJYzWmXi) Fields
+HF Leach Fields
+'''''''''''''''
 
 **Prefix for HF Leach Fields**
 
     leach_HF
 
 
-- leach_HF_5%_03_min
-    - Material: Glass, Groundmass
-- leach_HF_5%_08_min
-    - Material: Plagioclase, Amphiboles
-- leach_HF_15%_07_min
-    - Material: Sanidine
+* leach_HF_5%_03_min
 
-## Picking Method Fields
+  * Material: Glass, Groundmass
+
+* leach_HF_5%_08_min
+
+  * Material: Plagioclase, Amphiboles
+
+* leach_HF_15%_07_min
+
+  * Material: Sanidine
+
+
+Picking Method Fields
+'''''''''''''''''''''
 
 **Prefix for Pick Fields**
 
-    pick_material_--mg
+    pick_ --mg
     --mg = amount of material to pick and pack for irradiation in grams.
     --xyl = number of crystals to pick and pack for irradiation.
+
+
 - [pick_groundmass](https://paper.dropbox.com/doc/Picking-Samples--AnPRl~NT7CTHoZ54MLp3T43~AQ-ehgTtv4nfGVpO10Jz1Y3p)
 - pick_feldspar
 - pick_mica
 - pick_amphibole
 
 
-## Archive Fields
+Archive Fields
+''''''''''''''
 
 The archive field will describe what the current state the sample is in after it has been sent for irradiation. Samples will be stored temporarily in Burt before being stored at MGR or being returned to the client or researcher.
 
@@ -156,7 +186,8 @@ The archive field will describe what the current state the sample is in after it
     - Samples are to be returned to the investigator.
 
 
-## Pack for Irradiation Fields
+Pack for Irradiation Fields
+'''''''''''''''''''''''''''
 
 **Prefix for Pack Fields**
 `pack_`
@@ -164,8 +195,10 @@ The archive field will describe what the current state the sample is in after it
 
 - pack_
 - 
-## Examples - Mineral Separation Recipes
-### Groundmass - Basalt
+Examples - Mineral Separation Recipes
+'''''''''''''''''''''''''''''''''''''
+
+Groundmass - Basalt
 - groundmass_basalt_fine
     - prepare_TS
     - crush_jaw_small
@@ -176,7 +209,7 @@ The archive field will describe what the current state the sample is in after it
     - archive_in_burt
 
 
-### Plagioclase - Basalt
+Plagioclase - Basalt
 - plagioclase_basalt_fine
     - prepare_TS
     - crush_jaw_small
@@ -187,7 +220,7 @@ The archive field will describe what the current state the sample is in after it
     - archive_in_burt
 
 
-### K-feldspar - Volcanic Tuff
+K-feldspar - Volcanic Tuff
 - feldspar_K_fine_coarse
     - prepare_TS
     - crush_jaw_small
@@ -197,7 +230,7 @@ The archive field will describe what the current state the sample is in after it
     - archive_in_burt
 
 
-### K-feldspar - Intrusive
+K-feldspar - Intrusive
 - feldspar_K_fine_coarse
     - prepare_TS
     - crush_jaw_small
@@ -208,7 +241,7 @@ The archive field will describe what the current state the sample is in after it
     - archive_in_burt
 
 
-### Biotite
+Biotite
 - biotite_coarse
     - thin_section_cut
     - small_jaw_crush
@@ -219,7 +252,7 @@ The archive field will describe what the current state the sample is in after it
     - archive
 
 
-### Muscovite
+Muscovite
 - muscovite_coarse
     - thin_section_cut
     - small_jaw_crush
@@ -230,7 +263,7 @@ The archive field will describe what the current state the sample is in after it
     - archive
 
 
-### Amphibole
+Amphibole
 - amphibole_coarse
     - thin_section_cut
     - small_jaw_crush

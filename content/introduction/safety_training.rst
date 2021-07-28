@@ -26,7 +26,7 @@ You will need to watch the videos below and take multiple quizzes to see if you 
 Laboratory and Chemical Safety
 ''''''''''''''''''''''''''''''
 
-Complete the lab safety training course under “**Laboratory and Chemical Safety**” from https://ehs.oregonstate.edu/training/training-materials
+Complete the lab safety training course under “**Laboratory and Chemical Safety**” from https://ehs.oregonstate.edu/training/training-materials. To complete this training, login into Bridge using your OSU information.
 
 - We also require that you review the supplementary safety resources on the same page.
 - [Basic Fume Hood Air Flow and Operation](http://www.youtube.com/watch?v=q2Pp3wge2j8) (3:18 min.)
@@ -45,7 +45,7 @@ Complete the lab safety training course under “**Laboratory and Chemical Safet
 Radiation Safety
 ''''''''''''''''
 
-* `Radiation Safety Training <https://ehs.oregonstate.edu/rso/training>`_
+* `Radiation Safety Training <https://training.oregonstate.edu/>`_
 * `Isotope training and user refresher <https://ehs.oregonstate.edu/rso/training/unsealed-refresher/unsealed-requirements>`_
 * `Cabinet and analytical x-ray safety <https://ehs.oregonstate.edu/rso/x-ray/training>`_
 * `Sealed source orientation and refresher <https://ehs.oregonstate.edu/rso/training/sealedsource-1>`_

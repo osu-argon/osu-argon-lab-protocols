@@ -1,8 +1,9 @@
-**Clean Large Jaw Crusher**
+Clean Large Jaw Crusher
+^^^^^^^^^^^^^^^^^^^^^^^
 
 Procedure to clean the large jaw crusher in Wilkenson. 
 
-**Procedure**
+**Steps**
 
 #. Remove the large steel panel that covers the motor to reach the rear plate bolt.
 #. Remove bolt and pull out the rear crushing plate.

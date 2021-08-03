@@ -1,5 +1,5 @@
 Picking Groundmass
-******************
+==================
 
 How to pick samples for Ar/Ar Analysis
 

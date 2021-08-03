@@ -1,9 +1,9 @@
 Short-term project archivel
-***************************
+===========================
 
 Projects that have had all samples prepered and irradiated can be move down to into the short-term storage in Burt Basement Room 05.
 
-**Procedure**
+**Steps**
 
 #. Gather all the samples related to the given project.
 #. Ensure that each sample is properly labeled and contained in a singular bag.

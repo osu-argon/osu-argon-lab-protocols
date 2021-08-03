@@ -1,4 +1,5 @@
-**Acid Preperation**
+Acid Preperation
+----------------
 
 Dilution of acids from concentrate to appropriate normality for acid leaching. In general you will need 500 ml of each of the acids for a standard leach. Below are instructions for making 1 L of the respective acid. Calculations are taken from https://www.sigmaaldrich.com/chemistry/stockroom-reagents/learning-center/technical-library/molarity-calculator.html.
 

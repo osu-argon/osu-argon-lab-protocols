@@ -1,4 +1,5 @@
-**Shaking Sieves**
+Shaking Sieves
+^^^^^^^^^^^^^^
 
 #. Stack the determined sieve sizes. It is best not to go over 4 sieves.
 #. Pour sample into the top most sieve so that it covers roughly half of the sieve.

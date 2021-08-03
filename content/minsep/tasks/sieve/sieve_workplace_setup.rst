@@ -1,4 +1,5 @@
-**Setting up your work area for sieving**
+Setting up your work area for sieving
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 #. Gather appropriate sieves.
 #. Check sieves for stuck grains and clean if necessary.

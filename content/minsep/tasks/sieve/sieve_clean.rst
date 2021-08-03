@@ -1,4 +1,5 @@
-**Clean Sieves**
+Clean Sieves
+^^^^^^^^^^^^
 
 .. Describes the general procedure to clean sieves before and after working with a sample.
 

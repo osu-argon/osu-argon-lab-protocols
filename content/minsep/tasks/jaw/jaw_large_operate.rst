@@ -1,5 +1,5 @@
 Operating the Large Jaw Crusher
-'''''''''''''''''''''''''''''''
+-------------------------------
 
 Procedure for crushing samples using the large jaw crusher in Wilkinson. The large jaw crusher is generally used for crushing large amounts of sample. The size of the rock should be no larger than the size of a fist.
 

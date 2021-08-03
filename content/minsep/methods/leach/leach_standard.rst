@@ -1,5 +1,5 @@
 Standard Acid Leaching Procedure
-********************************
+================================
 
 This acid leaching procedure removes carbonate and clay products that may interfere or contaminate Ar/Ar analyses. The procedure involves placing the sample in a sequence of acids (1N HCl, 6N HCl, 1N HNO3, 3N HNO3) and placing them in a mild ultra-sonic bath.
 

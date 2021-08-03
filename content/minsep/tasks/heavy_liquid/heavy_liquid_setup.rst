@@ -1,19 +1,9 @@
-# Heavy Liquid Setup
-
-## ID
-
-Descriptive variable that will be used a a unique ID for the procedure.
-Example: `leach_acid_HF_v01`
-
-## Requires
-
-List other procedures used here using their `IDs`.
-
-## Description
+Heavy Liquid Setup
+''''''''''''''''''
 
 Brief description of the overall procedure. This should include important details so that the procedure could be replicated.
 
-## Procedure
+**Steps**
 
 A step by step description of how the procedure is performed in the OSU Argon Lab. Include variables of procedure that are used here.
 

@@ -1,9 +1,9 @@
 Pack samples for Irradiation
-****************************
+============================
 
 Procedure to pack picked samples for irradiation.
 
-**Procedure**
+**Steps**
 
 1. Weigh samples to the desired amount to irradiate. Generally enough for two analyses.
 2. Put pre-made aluminum capsule in the pack plate.

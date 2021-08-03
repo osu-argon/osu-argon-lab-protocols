@@ -1,5 +1,5 @@
 Petrographic Thin Sections: Prep and Submitting an order [#]_
-********************************************************
+========================================================
 
 Method for preparing a thin section billet. To be used for preparing a billet to be sent to Wagner Petrographic or to client.
 
@@ -8,7 +8,7 @@ Method for preparing a thin section billet. To be used for preparing a billet to
 
 Rock is slabbed into two inch slabs using a diamond rimmed saw. A representative 2x2x3 inch piece of the rock.
 
-**Procedure**
+**Steps**
 
 #. Slab rock into two inch thick slices.
 #. Remove any visible weathering rinds.

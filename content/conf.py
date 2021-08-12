@@ -22,7 +22,8 @@ copyright = '2021, Daniel Heaton'
 author = 'Daniel Heaton'
 
 # The full version, including alpha/beta/rc tags
-release = '1.0.0'
+## release = '0.0.1'
+version = '0.1.0'
 
 
 # -- General configuration ---------------------------------------------------
@@ -35,7 +36,8 @@ extensions = [
     "sphinx.ext.autodoc",
     "sphinx.ext.mathjax",
     "sphinx.ext.viewcode",
-    "recommonmark"
+    "recommonmark",
+    "rst2pdf.pdfbuilder"
 ]
 
 # Add any paths that contain templates here, relative to this directory.

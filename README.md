@@ -6,6 +6,8 @@ https://www.sphinx-doc.org/en/master/usage/restructuredtext/basics.html#sections
 
 The lab book compiled using Sphinx and one of the main features of this is including file snippets. To include a file in a document the 
 
+
+
 `.. include:: <file path>` 
 
 is used. 
@@ -15,21 +17,46 @@ By nesting files within each other, special care is needed when setting headers 
 There are three types of files/pages in this lab book.
 
 * Recipes
+  * A recipe file will use the asterik symbol `****`. 
+
 * Methods
+  * A method file will use the equal symbol `====`.
+
 * Tasks
-
-
-A recipe file will use the asterik `****`. 
-
-A method file will use the equal `====`.
-
-A task file will use the hyphen  `----`.
-
-
+  * A task file will use the hyphen symbol `----`.
 
 
 ## Adding Images
 
-.. image:: https://paper-attachments.dropbox.com/s_0971E35B96C0A3333F4EEB16AF0FCF2CA45AE5B5B56AB83FEC688253E286A3B7_1562172071120_picking_setup_step_02.png
+``
+.. image:: <image path>
   :width: 400
   :alt: Take a small amount grains from the pile and spread them across the plate.
+``
+
+## Commenting Documents
+
+`` .. Everything after the two periods will not be executed ``
+
+## Building a local version of the protocol book
+
+Under Python install these packages using ``pip install``
+
+``
+sphinx
+sphinx-autobuild
+recommonmark
+sphinx_pangeo_theme
+``
+
+To build the document run.. 
+
+``
+sphinx-build -b html "path\to\content" "path\to\output"
+``
+
+To start server that recognizes changes to the files and automatically triggers a rebuild...
+
+`
+sphinx-autobuild -b html "path\to\content" "path\to\output"
+`

@@ -7,15 +7,12 @@
 Welcome to the OSU Argon Geochronology Lab Protocols!
 #####################################################
 
-.. .. include:: ../README.md
-
 .. toctree::
-   :caption: Introduction:
+   :caption: Starting Documents:
    :glob:
    :titlesonly:
 
    introduction/**
-
 
 Mineral Separation
 ------------------
@@ -29,8 +26,6 @@ Recipes
    :maxdepth: 1
 
    minsep/recipes/**
-
-
 
 Methods
 '''''''

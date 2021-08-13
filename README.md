@@ -28,15 +28,15 @@ There are three types of files/pages in this lab book.
 
 ## Adding Images
 
-`
+```
 .. image:: <image path>
   :width: 400
-  :alt: Take a small amount grains from the pile and spread them across the plate.
-`
+  :alt: 
+```
 
 ## Commenting Documents
 
-`` .. Everything after the two periods will not be executed ``
+``` .. Everything after the two periods will not be executed ```
 
 ## Building a local version of the protocol book
 
@@ -51,12 +51,12 @@ sphinx_pangeo_theme
 
 To build the document run.. 
 
-``
+```
 sphinx-build -b html "path\to\content" "path\to\output"
-``
+```
 
 To start server that recognizes changes to the files and automatically triggers a rebuild...
 
-`
+```
 sphinx-autobuild -b html "path\to\content" "path\to\output"
-`
+```

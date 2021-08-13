@@ -31,7 +31,7 @@ Reset Baseline Levels to Zero
 #. After entering in the values of each of the cups, `click` the ``Update XX Offset`` button.
 #. The ``UFC Offset [fA]`` value should be refreshed with the new offset values.
 #. Note these new values
-#. Open `Instrument Control` and the ``Detector Setup`` dialog box.
+#. Open `Instrument Control` and click ``Detector Setup``
     .. image:: figures/InstrumentControl_ArgusVI_tab.png
         :width: 800
 

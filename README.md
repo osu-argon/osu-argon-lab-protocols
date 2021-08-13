@@ -42,12 +42,12 @@ There are three types of files/pages in this lab book.
 
 Under Python install these packages using ``pip install``
 
-``
+```
 sphinx
 sphinx-autobuild
 recommonmark
 sphinx_pangeo_theme
-``
+```
 
 To build the document run.. 
 

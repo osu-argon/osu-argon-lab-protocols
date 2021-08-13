@@ -2,7 +2,7 @@
 
 The lab book is formatted using reStructuredText (.rst).
 
-https://www.sphinx-doc.org/en/master/usage/restructuredtext/basics.html#sections
+https://www.sphinx-doc.org/en/master/usage/restructuredtext/basics.html
 
 The lab book compiled using Sphinx and one of the main features of this is including file snippets. To include a file in a document the 
 

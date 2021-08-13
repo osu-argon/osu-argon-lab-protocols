@@ -28,11 +28,11 @@ There are three types of files/pages in this lab book.
 
 ## Adding Images
 
-``
+`
 .. image:: <image path>
   :width: 400
   :alt: Take a small amount grains from the pile and spread them across the plate.
-``
+`
 
 ## Commenting Documents
 

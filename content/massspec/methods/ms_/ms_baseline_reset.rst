@@ -41,7 +41,7 @@ Reset Baseline Levels to Zero
 
 
 #. From the previous step, paste the calculated ``UFC Offset [fA]`` values into the ``UFC Offset [fA]`` column in the ``Detector Setup Wizard`` window.
-#. Click ``Apple Changes``.
+#. Click ``Apply Changes``.
 #. Shutdown and restart the computer and ``Instrument Control``. Open the ``Detector Setup Wizard`` window again and confirm the values were entered.
 
 

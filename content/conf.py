@@ -37,7 +37,6 @@ extensions = [
     "sphinx.ext.mathjax",
     "sphinx.ext.viewcode",
     "recommonmark",
-    "rst2pdf.pdfbuilder"
 ]
 
 # Add any paths that contain templates here, relative to this directory.
